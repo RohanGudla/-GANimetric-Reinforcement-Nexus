@@ -18,18 +18,5 @@ Follow these steps to use the RL-GAN-Net:
 6. Train the Reinforcement Learning (RL) agent by using the pre-trained GAN and AE with `trainRL.py`.
 7. Test with incomplete data by running `testRL.py`.
 
-## Citation
-
-If you find this work useful for your projects, please consider citing our CVPR paper:
-
-```
-@InProceedings{Sarmad_2019_CVPR,
-author = {Sarmad, Muhammad and Lee, Hyunjoo Jenny and Kim, Young Min},
-title = {RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
-}
-```
 
 The original implementation and data credits go to their respective authors. This information is presented here for personal understanding and educational purposes.
